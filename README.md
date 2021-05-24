@@ -1,6 +1,6 @@
 # Gerador de CodeQr 
 
-
+*Adicionar imagem*
 Import:
 import pyqrcode
 import png
