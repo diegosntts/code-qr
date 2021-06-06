@@ -2,6 +2,6 @@
 
 Execução:
 
-pip install pyqrcode
+- pip install pyqrcode
 
 pip install pypng
