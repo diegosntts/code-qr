@@ -1,6 +1,6 @@
 # Gerador de CodeQr 
 
-Adicionar interface
+- Adicionar interface
 
 Execução:
 
