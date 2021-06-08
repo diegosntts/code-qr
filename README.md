@@ -1,7 +1,5 @@
 # Gerador de CodeQr 
 
-- Adicionar interface
-
 Execução:
 
 
