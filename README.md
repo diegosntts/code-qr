@@ -2,7 +2,6 @@
 
 Execução:
 
-
 - pip install pyqrcode
 
 - pip install pypng
