@@ -1,6 +1,5 @@
 # Gerador de CodeQr 
 
-as
 Execução:
 
 - pip install pyqrcode
