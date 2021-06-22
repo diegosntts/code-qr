@@ -6,4 +6,3 @@ Execução programa:
 
 - pip install pypng
 
-[Terminal]
